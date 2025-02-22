@@ -1,56 +1,54 @@
-# 🌍⚡ Global Energy Consumption Analysis
+## Overview
+This project presents an interactive Power BI dashboard that analyzes global energy consumption trends. The dashboard includes various data visualizations such as a world map, trend analysis, and comparative statistics to provide insights into energy consumption patterns.
 
-## 📖 Overview
-This project provides an in-depth analysis of global energy consumption trends using **Power BI**. The dashboard presents insights into energy consumption patterns, highlighting the top energy-consuming countries, yearly trends, and efficiency comparisons.
+## Features
+1. **Interactive Map** – Displays energy consumption by country with bubble sizes representing consumption levels.
+2. **Yearly Energy Trend** – A line chart illustrating the historical trend of global energy consumption.
+3. **Top 10 Energy-Consuming Countries** – A ranked bar chart displaying the highest consumers of energy.
+4. **Energy Consumption by Continent** – A pie chart breaking down energy consumption by continent.
+5. **Key Metrics** – Includes total energy consumption, top consumer country, and most energy-efficient country.
+6. **Filters** – Users can filter data by year and country to customize the analysis.
 
-## 🎯 Objectives
-- Analyze global energy consumption patterns across different countries and continents.
-- Identify the **top energy-consuming** and **most energy-efficient** countries.
-- Provide insights into the yearly energy consumption trend.
-- Offer data-driven **recommendations for energy sustainability**.
+## Data Sources
+The dataset used in this project consists of global energy consumption records spanning multiple decades. The data has been processed and cleaned for effective visualization.
 
-## 📊 Power BI Dashboard
-![Global Energy Consumption Dashboard](assets/images/dashboard_screenshot.png)
+## Setup Instructions
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/aeronabrahan/Global-Energy-Dashboard.git
+   ```
+2. Open the Power BI file (`World Energy Consumption.pbix`).
+3. Ensure Power BI Desktop is installed.
+4. Explore and interact with the dashboard.
 
-## 📈 Key Findings
-- **The United States is the top consumer of energy**, followed by China and Russia.
-- **Asia contributes the largest share of global energy consumption**, followed by North America and Europe.
-- **Yearly energy consumption has been increasing steadily** over the decades, indicating rising global energy demands.
-- **Vietnam is identified as the most energy-efficient country**, based on per capita energy consumption metrics.
+## Deployment
+The dashboard is deployed using **GitHub Pages**:
+- **URL**: [https://aeronabrahan.github.io/Global-Energy-Dashboard/](https://aeronabrahan.github.io/Global-Energy-Dashboard/)
+- **Configuration**:
+  - `_config.yml` contains the remote theme settings.
+  - Assets such as images and the favicon are stored in `/assets/images/`.
 
-## 📌 Conclusion & Recommendations
-### **Conclusion**
-The **Global Energy Consumption Analysis** provides a **clear view of how energy is distributed across different regions and countries**. The insights highlight that developed economies like the **United States and China consume the highest energy**, while some countries in Asia and Africa exhibit **lower energy consumption per capita**, indicating higher efficiency.
+## Conclusion
+The analysis reveals clear disparities in energy consumption across regions, highlighting the dominance of certain countries in total consumption. The insights generated can help in policy-making, energy efficiency strategies, and sustainability planning.
 
-### **Recommendations**
-1️⃣ **Promote renewable energy adoption** in high-consumption countries to reduce carbon emissions.
-2️⃣ **Invest in energy efficiency programs** for countries with high energy intensity.
-3️⃣ **Encourage sustainable consumption patterns** through policy reforms and awareness programs.
-4️⃣ **Analyze energy consumption on a sectoral level** (industrial, commercial, residential) for better-targeted energy policies.
-5️⃣ **Monitor and forecast future energy trends** to help policymakers make data-driven decisions.
+## Recommendations
+1. Promote energy-efficient practices in high-consumption countries.
+2. Explore alternative energy sources to reduce dependency on fossil fuels.
+3. Implement stricter energy regulations to control excessive consumption.
+4. Conduct further analysis on renewable energy adoption trends.
 
----
+## Contributors
+- **Jan Aeron Abrahan**
+- **Contact**: [LinkedIn](https://www.linkedin.com/)
 
-## 📌 Contributors
-👤 **Jan Aeron Abrahan**  
-📧 **Contact**: [LinkedIn Profile](https://www.linkedin.com/in/janaeronabrahan/)  
+## License
+This project is licensed under MIT License.
 
----
+## Next Steps
+1. Commit this `README.md` file to the repository.
+2. Deploy GitHub Pages via repository settings.
+3. Share the project for portfolio or professional reference.
 
-## 📌 Live GitHub Pages Site
-🚀 **View the Full Project Documentation:**  
-🔗 [**Click Here**](https://yourusername.github.io/Global-Energy-Dashboard/)  
+## Acknowledgments
+This project utilizes open-source energy consumption datasets and Power BI for visualization.
 
-🔹 This repository serves as a portfolio project showcasing expertise in **Power BI, Data Analytics, and Energy Sustainability**. 🌍⚡
-
----
-
-## **✅ Next Steps**
-1️⃣ **Commit this README.md** to your repository.  
-2️⃣ **Deploy GitHub Pages** (**Settings → Pages → Deploy from `main`**).  
-3️⃣ **Share the link on LinkedIn, portfolio, or resume.**  
-
----
-
-This README follows a **professional format** with clear sections and a **strong conclusion**. 🚀🔥  
-Would you like me to create a **GitHub Issue Tracker** for future enhancements?
