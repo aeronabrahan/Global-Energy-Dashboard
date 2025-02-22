@@ -1,18 +1,17 @@
-# GitHub Pages Configuration for Global Energy Dashboard
-
-title: "Global Energy Dashboard"
-description: "Power BI dashboard for analyzing global energy consumption trends, efficiency, and top consumers."
+title: "Global Energy Dashboard 🌍⚡"
+description: "An analytical view of global energy usage trends and efficiency."
+show_downloads: True
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-  - jekyll-remote-theme  # Enable GitHub Pages themes
+  - jekyll-remote-theme
 
-show_downloads: true  # Show download links for repository files
-google_analytics:  # (Optional: Add your Google Analytics Tracking ID)
-include: 
-  - README.md
-  - dashboard_overview.png
-  - dashboard_insights.png
-  - final_layout.png
+# Navigation Links (Optional)
+header_pages:
+  - index.md
+  - about.md
+  - insights.md
+  - recommendations.md
+  - methodology.md
 
-github:
-  is_project_page: true
+# Favicon (Set after adding it to assets)
+favicon: "assets/images/output-onlinegiftools.gif"
