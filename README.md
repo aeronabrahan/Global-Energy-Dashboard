@@ -1,118 +1,56 @@
-# Global-Energy-Dashboard
-Power BI dashboard analyzing global energy consumption trends, efficiency, and top consumers with interactive insights.
+# 🌍⚡ Global Energy Consumption Analysis
 
-# **🌍 Global Energy Dashboard**
+## 📖 Overview
+This project provides an in-depth analysis of global energy consumption trends using **Power BI**. The dashboard presents insights into energy consumption patterns, highlighting the top energy-consuming countries, yearly trends, and efficiency comparisons.
 
-## **📌 Overview**
-The **Global Energy Dashboard** is a **Power BI** project analyzing worldwide energy consumption trends, efficiency, and top consumers. This dashboard provides valuable insights into energy usage patterns, helping stakeholders make informed decisions on sustainability, efficiency, and resource allocation.
+## 🎯 Objectives
+- Analyze global energy consumption patterns across different countries and continents.
+- Identify the **top energy-consuming** and **most energy-efficient** countries.
+- Provide insights into the yearly energy consumption trend.
+- Offer data-driven **recommendations for energy sustainability**.
 
----
+## 📊 Power BI Dashboard
+![Global Energy Consumption Dashboard](assets/images/dashboard_screenshot.png)
 
-## **📖 Table of Contents**
-1. [Problem Statement](#-problem-statement)
-2. [Objective](#-objective)
-3. [Dataset Description](#-dataset-description)
-4. [Dashboard Explanation](#-dashboard-explanation)
-5. [Key Insights & Findings](#-key-insights--findings)
-6. [Conclusions & Recommendations](#-conclusions--recommendations)
-7. [Setup & Usage](#-setup--usage)
-8. [License](#-license)
+## 📈 Key Findings
+- **The United States is the top consumer of energy**, followed by China and Russia.
+- **Asia contributes the largest share of global energy consumption**, followed by North America and Europe.
+- **Yearly energy consumption has been increasing steadily** over the decades, indicating rising global energy demands.
+- **Vietnam is identified as the most energy-efficient country**, based on per capita energy consumption metrics.
 
----
+## 📌 Conclusion & Recommendations
+### **Conclusion**
+The **Global Energy Consumption Analysis** provides a **clear view of how energy is distributed across different regions and countries**. The insights highlight that developed economies like the **United States and China consume the highest energy**, while some countries in Asia and Africa exhibit **lower energy consumption per capita**, indicating higher efficiency.
 
-## **🔍 Problem Statement**
-With global energy demand increasing rapidly, understanding **consumption trends** is crucial for policymakers, businesses, and researchers. This project aims to analyze:
-- Which **countries** are consuming the most energy?
-- How has global **energy consumption** evolved over time?
-- Which **regions/continents** contribute the most to global energy usage?
-- How **efficient** are certain countries in energy consumption?
-
----
-
-## **🎯 Objective**
-The main goal of this analysis is to **visualize and compare** global energy consumption trends while highlighting efficiency and top-consuming regions. This dashboard will:
-- **Identify** key energy consumers globally.
-- **Analyze** historical energy consumption patterns.
-- **Compare energy consumption by continent & country.**
-- **Highlight** the most energy-efficient countries.
+### **Recommendations**
+1️⃣ **Promote renewable energy adoption** in high-consumption countries to reduce carbon emissions.
+2️⃣ **Invest in energy efficiency programs** for countries with high energy intensity.
+3️⃣ **Encourage sustainable consumption patterns** through policy reforms and awareness programs.
+4️⃣ **Analyze energy consumption on a sectoral level** (industrial, commercial, residential) for better-targeted energy policies.
+5️⃣ **Monitor and forecast future energy trends** to help policymakers make data-driven decisions.
 
 ---
 
-## **📊 Dataset Description**
-- **Source**: Global Energy Data from 1965 to 2023.
-- **Key Columns**:
-  - **Country**: Name of the country.
-  - **Year**: Time series from 1965–2023.
-  - **Energy Consumption**: Measured in terawatt-hours (TWh).
-  - **Continent**: Categorized regions for better aggregation.
-  - **Efficiency**: Consumption relative to economic & population data.
+## 📌 Contributors
+👤 **Jan Aeron Abrahan**  
+📧 **Contact**: [LinkedIn Profile](https://www.linkedin.com/in/janaeronabrahan/)  
 
 ---
 
-## **📌 Dashboard Explanation**
-### **💡 Visuals Included:**
-1️⃣ **Map Visualization** 🗺️ (Global Energy Consumption by Country)
-2️⃣ **Pie Chart** 🥧 (Energy Consumption by Continent)
-3️⃣ **Clustered Bar Chart** 📊 (Top 10 Energy-Consuming Countries)
-4️⃣ **Line Chart** 📈 (Yearly Global Energy Consumption Trend)
-5️⃣ **KPI Cards** 🏆:
-   - **Total Energy Consumption**
-   - **Top Consumer Country**
-   - **Most Energy Efficient Country**
-6️⃣ **Slicers** 🎛️ (Filter by Country & Year)
+## 📌 Live GitHub Pages Site
+🚀 **View the Full Project Documentation:**  
+🔗 [**Click Here**](https://yourusername.github.io/Global-Energy-Dashboard/)  
 
-### **🎨 Theme & Design**
-- **Minimalist Midnight Black & Yellow Theme** ⚡
-- **Hex Colors for Visualization:**
-  - **Pie Chart (Energy Tones - Light Yellow to Deep Gold)** 🎨
-  - **Bar Chart & Line Chart (Gradient of Yellow-Gold)** 📊
-- **Dashboard Layout:**
-  - **Filters & KPI Cards at the Top** ✅
-  - **Map & Pie Chart on the Left** ✅
-  - **Bar & Line Charts on the Right** ✅
-  
----
-
-## **📌 Key Insights & Findings**
-1️⃣ **Top Energy Consumer**: The **United States** leads in global energy consumption, followed by **China** and **Russia**.
-2️⃣ **Growth Trends**: Global energy consumption has significantly **increased over the decades**, with notable jumps in industrialization periods.
-3️⃣ **Regional Contributions**:
-   - **Asia Pacific** consumes the most energy.
-   - **Africa & Oceania** contribute the least.
-4️⃣ **Efficiency Insights**: Countries like **Vietnam & Norway** rank as the most **energy-efficient nations** based on consumption vs. economic output.
+🔹 This repository serves as a portfolio project showcasing expertise in **Power BI, Data Analytics, and Energy Sustainability**. 🌍⚡
 
 ---
 
-## **📌 Conclusions & Recommendations**
-✅ **Conclusion:**
-- Global energy demand has steadily increased since **1965**, highlighting the need for **sustainable solutions**.
-- Some countries are significantly more **energy-efficient** than others.
-- Asia-Pacific is the dominant energy consumer, requiring **policy interventions** for sustainable usage.
-
-💡 **Recommendations:**
-- **Renewable Energy Adoption**: High-consumption countries should **increase renewable energy investment**.
-- **Efficiency Improvements**: Governments should promote **energy-saving technologies & policies**.
-- **Further Analysis**: Future research could focus on **energy mix (fossil vs. renewables)**.
+## **✅ Next Steps**
+1️⃣ **Commit this README.md** to your repository.  
+2️⃣ **Deploy GitHub Pages** (**Settings → Pages → Deploy from `main`**).  
+3️⃣ **Share the link on LinkedIn, portfolio, or resume.**  
 
 ---
 
-## **📌 Setup & Usage**
-### **🔧 Prerequisites**
-1️⃣ **Install Power BI Desktop** ([Download Here](https://powerbi.microsoft.com/desktop/))
-2️⃣ **Clone this repository**:
-   ```bash
-   git clone https://github.com/aeronabrahan/Global-Energy-Dashboard.git
-   ```
-3️⃣ **Open `Global_Energy.pbix` in Power BI**
-4️⃣ **Explore & analyze the dashboard!**
-
----
-
-## **📌 License**
-This project is licensed under the **MIT License** – feel free to use & modify!
-
-📌 **Contributors**: [Jan Aeron Abrahan](https://github.com/aeronabrahan) 🚀
-
----
-
-🔥 **Star this repository if you find it useful!** ⭐
+This README follows a **professional format** with clear sections and a **strong conclusion**. 🚀🔥  
+Would you like me to create a **GitHub Issue Tracker** for future enhancements?
